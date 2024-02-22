@@ -1,0 +1,12 @@
+.profile{
+    font-size: large;
+    height: 50vh;
+    width: 50vh;
+    border: 2px solid black;
+    margin: auto;
+}
+.profile-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,14 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container1{
+    display: flex;
+    margin-bottom: 50px;
+    width: 65%;
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content:center;
+    gap: 35px 65px;
+}
